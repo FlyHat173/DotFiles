@@ -7,7 +7,7 @@
 }
 
 ^!Numpad3:: {
-  run "firefox.exe"
+  run "brave.exe"
 }
 
 ^!Numpad4:: {
