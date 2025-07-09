@@ -25,5 +25,10 @@
 ^!Numpad7:: {
   run "C:/Users/USER/OneDrive/Desktop/Joplin.lnk"
 }
+
+^!Numpad8:: {
+  run "C:\Program Files\Mozilla Thunderbird\thunderbird.exe"
+}
+
 return
 
