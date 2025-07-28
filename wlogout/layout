@@ -1,31 +1,31 @@
 {
     "label" : "logout",
     "action" : "loginctl terminate-user $USER",
-    "text" : "Logout [L]",
+    "text" : "Logout",
     "keybind" : "l"
 }
 {
     "label" : "suspend",
     "action" : "systemctl suspend",
-    "text" : "Suspend [U]",
+    "text" : "Suspend",
     "keybind" : "u"
 }
 {
     "label" : "shutdown",
     "action" : "systemctl poweroff",
-    "text" : "Shutdown [S]",
+    "text" : "Shutdown",
     "keybind" : "s"
 }
 {
     "label" : "hibernate",
     "action" : "systemctl hibernate",
-    "text" : "Hibernate [H]",
+    "text" : "Hibernate",
     "keybind" : "h"
 }
 {
     "label" : "reboot",
     "action" : "systemctl reboot",
-    "text" : "Reboot [R]",
+    "text" : "Reboot",
     "keybind" : "r"
 }
 {
