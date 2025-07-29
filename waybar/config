@@ -22,7 +22,6 @@
   "modules-right": [
     "backlight",
     "pulseaudio",
-    "custom/keyboard-layout",
     "temperature",
     // "cpu",
     // "memory",
@@ -30,7 +29,6 @@
     "group/hardware",
     "battery",
     "network",
-    "idle_inhibitor",
     "custom/power"
   ],
 
