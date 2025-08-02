@@ -213,5 +213,4 @@ output * bg /home/yeah/Pictures/blurred_wallpaper.png fill
 exec --no-startup-id fcitx5 -d
 
 bindsym $mod+alt+b exec brave-browser
-bindsym $mod+alt+q exec qutebrowser
 bindsym $mod+alt+t exec thunar
